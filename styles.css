@@ -1,0 +1,185 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #866ec7;
+    font-size: 1rem;
+}
+
+hr {
+	border-style: none;
+  border-top-style: dotted;
+  border-color: #f2c0ff;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+
+table {
+
+}
+
+/* headers */
+
+h1 {
+	margin: 0 auto 0 auto;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 5rem;
+  color: white;
+}
+
+h2 {
+	font-family: 'Cabin Sketch', cursive;
+	margin: 0 auto 0 auto;
+	font-size: 3rem;
+	font-weight: normal;
+	margin-bottom: 35px;
+  margin-top: 30px;
+}
+
+h3 {
+  font-family: 'Cabin Sketch', cursive;
+  margin-bottom: 15px;
+  margin: 0 auto 0 auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Cabin Sketch', cursive;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+h5 {
+  font-family: 'Cabin Sketch', cursive;
+  margin-bottom: 15px;
+}
+
+h6 {
+  font-family: 'Cabin Sketch', cursive;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+/* Classes */
+
+.navbar-brand {
+  font-family: 'Cabin Sketch', cursive;
+  color: #866ec7;
+  font-size: 1.25rem;
+  margin-left: 205px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Cabin Sketch', cursive;
+}
+
+.container-fluid {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.media {
+  padding-bottom: 40px;
+}
+
+.navbar {
+  font-family: font-family: 'Cabin Sketch', cursive;
+}
+
+.h2-special {
+  font-family: 'Cabin Sketch', cursive;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 2rem;
+}
+
+.container-fluid {
+  padding: 5% 17%;
+}
+
+/* IDs */
+
+#competencies {
+  text-align: center;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+
+#phone {
+
+  transform: rotate(25deg);
+}
+
+#title {
+  background-color: #f2c0ff;
+}
+
+#skills {
+  background-color: #f2c0ff;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+
+#languages {
+  background-color: #f2c0ff;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#contat-me {
+  text-align: center;
+}
+
+#emailHelp {
+  text-align: center;
+}
+
+#message-me {
+  text-align: center;
+}
+
+#footer {
+  background-color: #f2c0ff;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Cabin Sketch', cursive;
+
+}
+
+/* Buttons */
+
+.btn {
+  background: #bf9fee;
+  background-image: -webkit-linear-gradient(top, #bf9fee, #2980b9);
+  background-image: -moz-linear-gradient(top, #bf9fee, #2980b9);
+  background-image: -ms-linear-gradient(top, #bf9fee, #2980b9);
+  background-image: -o-linear-gradient(top, #bf9fee, #2980b9);
+  background-image: linear-gradient(to bottom, #bf9fee, #2980b9);
+  -webkit-border-radius: 40;
+  -moz-border-radius: 40;
+  border-radius: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 11px 20px;
+  text-decoration: none;
+  align: center;
+  margin-bottom: 20px;
+  font-family: font-family: 'Cabin Sketch', cursive;
+}
+
+.btn:hover {
+  background: #f2c0ff;
+  background-image: -webkit-linear-gradient(top, #bf9fee, #3498db);
+  background-image: -moz-linear-gradient(top, #bf9fee, #3498db);
+  background-image: -ms-linear-gradient(top, #bf9fee, #3498db);
+  background-image: -o-linear-gradient(top, #bf9fee, #3498db);
+  background-image: linear-gradient(to bottom, #bf9fee, #3498db);
+  text-decoration: none;
+}
